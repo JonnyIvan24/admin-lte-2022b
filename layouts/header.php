@@ -89,13 +89,13 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="./pages/users/add.php" class="nav-link active">
+                <a href="../users/add.php" class="nav-link active">
                   <i class="fas fa-solid fa-plus nav-icon"></i>
                   <p>Crear</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="#" class="nav-link">
+                <a href="../users/list.php" class="nav-link">
                   <i class="fas fa-solid fa-list nav-icon"></i>
                   <p>Listar</p>
                 </a>
